@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/agency-website/static/css/main.5b42e094.css",
+    "main.js": "/agency-website/static/js/main.75292780.js",
+    "static/js/453.adb37325.chunk.js": "/agency-website/static/js/453.adb37325.chunk.js",
+    "static/media/hero_img.png": "/agency-website/static/media/hero_img.96dbc1e1897883d9a858.png",
+    "static/media/card icon-4.png": "/agency-website/static/media/card icon-4.0c6b45480978b8ee695c.png",
+    "static/media/card icon-3.png": "/agency-website/static/media/card icon-3.b10b80be0280e2088b43.png",
+    "static/media/card icon-2.png": "/agency-website/static/media/card icon-2.b4b07f765d6342634e4f.png",
+    "static/media/cardicon-1.png": "/agency-website/static/media/cardicon-1.3c7378ec2c0d3af8692e.png",
+    "static/media/icon-1.svg": "/agency-website/static/media/icon-1.e61613bc2d7e5f4dd5bc23bbc5ecba69.svg",
+    "index.html": "/agency-website/index.html",
+    "main.5b42e094.css.map": "/agency-website/static/css/main.5b42e094.css.map",
+    "main.75292780.js.map": "/agency-website/static/js/main.75292780.js.map",
+    "453.adb37325.chunk.js.map": "/agency-website/static/js/453.adb37325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b42e094.css",
+    "static/js/main.75292780.js"
+  ]
+}
